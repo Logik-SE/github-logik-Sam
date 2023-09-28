@@ -1,0 +1,44 @@
+---
+- variableName: kNAccessPanelSet
+  name: KN Access Panel Set
+  fields:
+  - variableName: set.kNAccessPanelSet.size.selectOption
+    distinct: false
+  - variableName: set.kNAccessPanelSet.size.optionValue
+    distinct: false
+  - variableName: kNPanelQty
+    distinct: false
+  - variableName: kNLength
+    distinct: false
+  - variableName: kNSize
+    distinct: false
+  - variableName: kNWidth
+    distinct: false
+  - variableName: kNStructFeat
+    distinct: false
+  - variableName: kNProduct
+    distinct: false
+  - variableName: kNFeatures
+    distinct: false
+  - variableName: kNWeight
+    distinct: false
+  - variableName: kNArtNum
+    distinct: false
+  - variableName: kNLockType
+    distinct: false
+  - variableName: kNHiddenSet
+    distinct: false
+  - variableName: kNCustomLock
+    distinct: false
+  - variableName: kNPlankingOptions
+    distinct: false
+  - variableName: kNHelpLinks
+    distinct: false
+  - variableName: set.kNAccessPanelSet.index
+    distinct: false
+  sizeField:
+    defaultValue: null
+    minValue: null
+    maxValue: null
+  sizeType: associatedPicklist
+  associatedPicklist: kNTypeHidden
