@@ -1,0 +1,45 @@
+---
+blueprints:
+- variableName: accessPanel
+  relatedFields:
+  - kNWeight
+  - kNRegion
+  - kNPanelQty
+  - kNCustomLock
+  - kNTypeHidden
+  - kNArtNum
+  - kNSize
+  - kNProduct
+  - kNFeatures
+  - kNWidth
+  - kNType
+  - kNLoc
+  - kNHelpLinks
+  - kNStructFeat
+  - kNHidden
+  - kNLockType
+  - kNHiddenSet
+  - kNLength
+  - kNPlankingOptions
+  lastModifiedBy: mckell01@demo01.logik.io
+  name: Access Panel
+  description: null
+  relatedSets:
+  - kNAccessPanelSet
+  scripts: null
+  layouts:
+  - file: /blueprints/accessPanel/layouts/accessPanel_salesLayout.csv
+    name: Sales Layout
+    variableName: accessPanel_salesLayout
+  - file: /blueprints/accessPanel/layouts/allLayout.csv
+    name: All Layout
+    variableName: allLayout
+  products:
+  - id: 01tDn0000054XTeIAM
+    productCode: ACCESS-PANEL
+    externalId: ""
+productPickers: null
+sets: /fields/sets.yaml
+fieldOptions: /fields/fieldOptions.csv
+rules: /rules/rules.csv
+fields: /fields/fields.csv

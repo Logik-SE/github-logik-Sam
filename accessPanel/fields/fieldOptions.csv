@@ -1,0 +1,58 @@
+variableName,name,value,defaultValue,description,imageUrl,optionGroup,order
+kNSize,300x300,300x300,false,,,,
+kNSize,400x400,400x400,false,,,,
+kNSize,500x500,500x500,false,,,,
+kNSize,600x600,600x600,false,,,,
+kNSize,700x700,700x700,false,,,,
+kNSize,800x800,800x800,false,,,,
+kNSize,Special,Special,false,,,,
+kNFeatures,Standard,Standard,true,,,,10
+kNFeatures,Structural Characteristics,Structural Characteristics,false,,,,20
+kNRegion,France,France,false,,,,
+kNRegion,Spain,Spain,false,,,,
+kNRegion,USA,USA,false,,,,
+kNRegion,Germany,Germany,false,,https://learn.logik.io/hubfs/Demo%20Images/Knauf/germany-flag-square-icon-256.png,,
+kNRegion,Italy,Italy,false,,https://learn.logik.io/hubfs/Demo%20Images/Knauf/italy-flag-square-icon-256.png,,
+kNRegion,UK,UK,false,,https://learn.logik.io/hubfs/Demo%20Images/Knauf/united-kingdom-flag-square-icon-256.png,,
+kNRegion,Denmark,Denmark,false,,https://learn.logik.io/hubfs/Demo%20Images/Knauf/denmark-flag-square-icon-256.png,,
+kNHelpLinks,BS30,https://www.knauf.de/wmv/?id=19054,false,,,,
+kNHelpLinks,BS90,https://www.knauf.de/wmv/?id=21870,false,,,,
+kNPlankingOptions,Planking with Thermoboard,Planking with Thermoboard,false,,,,
+kNPlankingOptions,Planking with Fireboard,Planking with Fireboard,true,,,,
+kNTypeHidden,One-Piece Access Panel,One-Piece Access Panel,false,,,,0
+kNTypeHidden,Multi-Part Access Panel,Multi-Part Access Panel,false,,,,10
+kNTypeHidden,Cantilever Ceiling,Cantilever Ceiling,false,,,,20
+kNStructFeat,Fire Protection,Fire Protection,false,,,,10
+kNStructFeat,Airtight/Dustproof,Airtight/Dustproof,false,,,,20
+kNStructFeat,Smokeproof,Smokeproof,false,,,,30
+kNStructFeat,Prepared for Tiling,Prepared for Tiling,false,,,,40
+kNStructFeat,Prepared for Surface,Prepared for Surface,false,,,,50
+kNStructFeat,Planking with Thermoboard,Planking with Thermoboard,false,,,,60
+kNStructFeat,Planking with Firebvoard,Planking with Firebvoard,false,,,,70
+kNStructFeat,Cladding,Cladding,false,,,,80
+kNStructFeat,Ball Proof,Ball Proof,false,,,,90
+kNStructFeat,Inner cover screwed flush,Inner cover screwed flush,false,,,,100
+kNStructFeat,Inner cover glued in flush,Inner cover glued in flush,false,,,,110
+kNCustomLock,Yes,true,false,,,,
+kNCustomLock,No,false,false,,,,
+kNProduct,REVO,REVO,false,,https://mdbapi.knauf.com/v1/asset_download.php?p=g&action=download&a=208874&f=434x326&c=6659f78c4984c73291f40bd546ebcc31,,
+kNProduct,REVO BS30/90 Wall,REVO BS30/90 Wall,false,,https://mdbapi.knauf.com/v1/asset_download.php?p=g&action=download&a=208845&f=434x326&c=1f081f9e5644033bd088bdd84d78c662,,
+kNProduct,REVO Perforated Plate 12.5,REVO PERFORATED PLATE 12.5,false,,https://mdbapi.knauf.com/v1/asset_download.php?p=g&action=download&a=1263575&f=434x326&c=83ba81e020c616e2e6a484f3bd843bbe,,
+kNProduct,REVO BS90 Ceiling,REVO-BS90-Ceiling,false,,https://mdbapi.knauf.com/v1/asset_download.php?p=g&action=download&a=208894&f=434x326&c=83ba81e020c616e2e6a484f3bd843bbe,,
+kNProduct,REVO BS30 Ceiling,REVO-BS30-Ceiling,false,,https://mdbapi.knauf.com/v1/asset_download.php?p=g&action=download&a=208868&f=434x326&c=f67dbc6f5868a9a7a8f8ef8f78038234,,
+kNProduct,REVO ECO,REVO-ECO,false,,https://mdbapi.knauf.com/v1/asset_download.php?p=g&action=download&a=208897&f=434x326&c=c38208d4ca9c832edcd6cfb5c68feb7e,,
+kNLockType,PZ,PZ,false,,,,
+kNLockType,4-Edge (Square),4-EDGE-SQUARE,false,,,,
+kNLockType,Round Cylinder,ROUND-CYLINDER,false,,,,
+kNLoc,Ceiling,Ceiling,false,,,,10
+kNLoc,Wall,Wall,false,,,,20
+kNArtNum,00220807,00220807,false,,,,
+kNArtNum,00220803,00220803,false,,,,
+kNArtNum,00220804,00220804,false,,,,
+kNArtNum,00220805,00220805,false,,,,
+kNArtNum,00220806,00220806,false,,,,
+kNArtNum,00173991,00173991,false,,,,
+kNArtNum,00220808,00220808,false,,,,
+kNType,One-Piece Access Panel,One-Piece Access Panel,false,,,,10
+kNType,Multi-Part Access Panel,Multi-Part Access Panel,false,,,,20
+kNType,Cantilever Ceiling,Cantilever Ceiling,false,,,,30
